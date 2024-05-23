@@ -11,3 +11,5 @@ Multimeter untuk visual grafik menggunakan kodular
 
 # Library
 ESP32 FIREBASE: https://github.com/ArtronShop/IOXhop_FirebaseESP32
+ArduinoJson 5.13.3
+Adafruit INA219
